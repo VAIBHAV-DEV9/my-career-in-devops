@@ -1,0 +1,61 @@
+General Commands
+
+ls - List files and directories.
+cd - Change directory.
+pwd - Print working directory (shows your current location).
+mkdir - Create a new directory.
+rm - Remove files or directories.
+cp - Copy files or directories.
+mv - Move or rename files and directories.
+
+File Management
+
+cat - View file contents.
+nano - Edit files with the Nano text editor.
+touch - Create an empty file.
+chmod - Change file permissions.
+chown - Change file ownership.
+
+System Information
+
+uname -a - Display system information.
+df -h - Show disk space usage.
+free -m - Display memory usage.
+uptime - Show system uptime.
+whoami - Display the current logged-in user.
+
+Process Management
+
+ps aux - List all processes.
+top - Monitor system processes in real-time.
+htop - Interactive process manager.
+kill - Terminate a process by PID.
+nice - Start a process with a specific priority.
+
+Networking
+
+ping - Test network connectivity.
+ifconfig - Display network interfaces (use ip addr on newer systems).
+curl - Transfer data from or to a server.
+wget - Download files from the internet.
+netstat - Show network connections.
+
+Disk Management
+
+lsblk - List information about block devices.
+fdisk - Partition a disk.
+mount - Mount a filesystem.
+umount - Unmount a filesystem.
+
+Archiving & Compression
+
+tar - Archive files.
+gzip - Compress files.
+unzip - Extract files from a ZIP archive.
+
+Others
+
+man - Show the manual for a command.
+history - Show previously executed commands.
+alias - Create shortcuts for commands.
+sudo - Execute commands as a superuser.
