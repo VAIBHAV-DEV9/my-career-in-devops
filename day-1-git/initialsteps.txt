@@ -1,20 +1,40 @@
-steps to take when onboarding into a job 
-get know what kind of remote repository using git(github,bitbucket,git-lab)
-install the required terminal(windows,linux,mac)
-terminal command line 
-get access to the onboarding )(git,jira,confluence
+1. steps to take when onboarding into a job 
+
+get know what kind of remote repository using git(github,bitbucket,git-lab) all these are used for storing the remote repo
+
+install the required terminal(windows,linux,mac) 
+
+intsall the terminal with git and other required resources
+
+get access to the onboarding (git,jira,confluence)-
+
 get the ssh key generate to the access for git very important step and the command is ssh-keygen -t ed25519 -C "your_email@example.com"
-clip < ~/.ssh/id_ed25519.pub
+clip < ~/.ssh/id_ed25519.pub. ssh key is to used to cloning the required file into our enivronment which act as a key.
+
 now get the repo clone into your local device use command git clone
-mu projects take required project assigned to you 
+
+take required project assigned to you  
+
 change the directory into your folder
+
 now create a new branch using command git checkout -b (my branch)
+
 company repo1: file change
+
 now make the changes into it  needed one
+
 now start the git process
+
 first step git status (git status command can be used at anypoint of time to check )
+
 next move the directory in staging area by command (git add .) to send single file or folder ( git add (file name))
+
 then commit it by using command git commit -m"(comments)"
+
 then git push origin (branch name you kept in step11)
+
 pr/mr raises in the git hub or bit bucket 
+
 approvals and merges
+
+chekc the location and file name frequently not to push the files into other folders.

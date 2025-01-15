@@ -1,0 +1,9 @@
+git commands git status - to check the status of file or folder at any point of time we can use this command
+git add . to send all the files which are in working area to staging area
+git add (specific name of the file) will only move required file to staging area
+git commit -m "(mention comments)" this one is used to move the file into local repository 
+git checkout - this command is to check on which branch we are on 
+git checkout -b (branch name) - this command is to create a new branch
+git push origin main/master- is to push the file into repo this command is used
+git push (brnach name) is to push the file into required branch ex: branch-1 or branch-a
+git clone - this command is to clone the repo file into local network
