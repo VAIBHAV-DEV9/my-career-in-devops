@@ -1,0 +1,11 @@
+confluence- a devops engineer can use confluence as a central hub for documenting and collaboratibg on various aspects of the software development and operations lifecycle.
+confluence can help teams to maintain transparency, streamline,communication across different stages of development, deployment and infrstructure management.
+a person can save his cloud configurations, microservices architectures, ci/cd pipelines.
+infrastructure as code (IAC) like terraform.
+deployement pipelines can be documented.
+everyone in the team can know the step-by-step instructions for responding to system incidents and recovery plans.
+can write the release notes, describing the features, bug fixes changes made during each deployment or release cycle.
+confluence can store security guidelines.
+confluence is great for onboarding new devops engineers by documenting the tools.
+devops engineer can integrate confluence with jira to link tickets
+in conclusion, it is a essential tool for documentation, collaboration and knowledge sharing. it helps teams to stay organized and maintain a clear record of decisions.

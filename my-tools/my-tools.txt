@@ -1,0 +1,21 @@
+1. git (github)
+2. JIRA 
+3. confluence 
+4 . slack & microsoft teams
+5. outlook (email)
+6. aws (amazon web service)
+    * aws eks
+    * aws EC2
+    * AWS vpc
+    * aws DATABASES
+    *
+    *
+    *
+    *
+    *
+7. DATABASES
+8. Automation(Terraform)
+9. Docker
+10. GitOps(ArgoCD)
+11. CI (CircleCI, Jenkins, HarnessCI)
+12. CD(Jenkins, Spinnaker, Harness)
