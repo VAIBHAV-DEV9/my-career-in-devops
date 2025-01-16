@@ -1,0 +1,29 @@
+In Jira Service Management, Epics, Bugs, Stories, and Tasks represent different types of work items that help organize and manage project development and support requests. Here’s a brief explanation of each:
+
+Epics:
+
+Definition: An Epic is a large body of work that can be broken down into smaller tasks (stories or tasks). It typically represents a high-level feature or initiative that spans multiple sprints.
+
+Use case: Organizing major features or significant project goals.
+
+Bugs:
+
+Definition: A Bug is a defect or issue in the system that causes the software to behave incorrectly or unexpectedly.
+
+Use case: Tracking and resolving problems in the system that need fixing.
+
+Stories:
+
+Definition: A Story represents a unit of work, typically a user-focused feature or requirement. It is smaller than an Epic and describes functionality from the user’s perspective.
+
+Use case: Capturing specific user needs or functionalities that can be developed in a sprint.
+
+Tasks:
+
+Definition: A Task is a smaller, specific piece of work that doesn’t necessarily fit into a Story. It is often used for operational or non-user-facing work that needs to be completed.
+
+Use case: Managing technical, operational, or support activities.
+These issue types help structure work in Jira Service Management, making it easier to track progress, prioritize work, and manage large projects or support workflows.
+
+
+
