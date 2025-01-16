@@ -1,0 +1,4 @@
+slack:  slack is a messaging platform used for enhancng team communication and collaboration.
+it supports voice and video calls. 
+MICROSOFT TEAMS :  it is similar to slack but it allows to team chats and channels for organised communication.
+it gives access to microsoft365 apps allowing teams to create edit, edit, and cooloborate on documents in real-time
