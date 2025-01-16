@@ -1,0 +1,70 @@
+Here’s a step-by-step process that outlines the typical flow of the ticket, assuming you are the assignee:
+
+1. Ticket Raised (New Issue)
+
+Trigger: A customer, team member, or automated process raises a ticket (issue) in Jira Service Management.
+
+Status: The ticket will be in the "New" or "Open" status (depending on the workflow configuration).
+
+Action: You, as the assignee, will be notified (via email or notification) that a ticket has been assigned to you.
+
+2. Ticket Review
+
+Action: You review the ticket’s details to understand the issue or request.
+
+Check: Ensure that the ticket includes all necessary information (e.g., description, priority, customer request, attachments).
+
+Action: You may ask for additional details if needed by commenting on the ticket.
+
+3. Ticket Investigation
+
+Action: Begin investigating the issue or request. This might include troubleshooting, researching, or collaborating with other teams.
+
+Status: You might move the ticket to a status like "In Progress" to indicate you're actively working on it.
+
+4. Resolution or Fix Implementation
+
+Action: Once you have gathered enough information, implement a solution, fix the bug, or complete the task requested by the customer.
+
+Status: Once the work is done, you will update the status of the ticket to "Resolved" or "Fixed" (depending on the workflow).
+
+5. Internal Review (Optional)
+
+Action: In some workflows, after marking the ticket as resolved, it may go through an internal review process, where a senior team member or manager will verify the fix or solution.
+
+Status: The ticket may move to "Waiting for Approval" or "Review" if required.
+
+6. Customer Review (For Customer Requests)
+
+Action: If the ticket was raised by a customer, it will usually be marked as "Waiting for Customer" once you notify the customer about the solution or request completion.
+
+Status: The customer will review the solution, and if they confirm that the issue is resolved, they’ll provide feedback or mark it as "Resolved".
+
+7. Ticket Closure
+
+Action: Once the customer is satisfied or after the internal review confirms the fix, the ticket is officially closed.
+
+Status: The ticket is moved to "Closed" or "Done".
+
+Note: If the customer does not respond within a certain time, the ticket may be automatically closed as well.
+
+8. Post-Closure (Optional)
+
+Action: After the ticket is closed, there may be a post-mortem or follow-up, depending on the workflow configuration. For example, feedback or surveys may be sent to the customer.
+
+Status: You can leave a final comment or resolution summary in the ticket for future reference.
+
+Example Jira Workflow:
+
+New → In Progress → Resolved → Waiting for Customer → Closed
+
+Notes:
+
+Transitions: The exact workflow (e.g., “In Progress,” “Waiting for Customer,” etc.) depends on how the Jira Service Management project is configured. Some statuses or transitions may be specific to your organization’s needs.
+
+Automation: In some cases, automation rules (like auto-closing tickets after a certain period) may be set up, so the ticket may automatically move between statuses without manual input.
+
+This process helps ensure that the ticket is addressed in a structured way, from the time it's raised until it's resolved and closed.
+
+
+
