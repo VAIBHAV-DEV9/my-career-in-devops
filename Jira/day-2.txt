@@ -1,5 +1,5 @@
 In Jira Service Management, Epics, Bugs, Stories, and Tasks represent different types of work items that help organize and manage project development and support requests. Here’s a brief explanation of each:
-
+Need to check daily tasks on it and get to know what are assigned to you 
 Epics:
 
 Definition: An Epic is a large body of work that can be broken down into smaller tasks (stories or tasks). It typically represents a high-level feature or initiative that spans multiple sprints.
