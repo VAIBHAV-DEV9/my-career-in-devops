@@ -1,0 +1,19 @@
+AWS IAM ( identity and access management) is a service that helps you securely control accessto aws resources.
+with IAM we can create and manage users,groups,roles,and permissions to allows or deny access to specific resources.
+accessing IAM and creating IAM users.
+--> in the iam dashboard goto users and click add user,
+--> give the user a  unique name--> choose whether the user should have programmatic access(visa aws cli,sdks) or aws managament console access( via web console).
+set permissions; assign direct permissions (like s3fullaccess or ec2 readonly)
+add the user to groups with predefined permissions.
+or assign custom policies if needed.
+CREATE IAM ROLES: --> in the iam console, go to roles and click "create role"
+ --> select the entity that will assume the role(eg : aws service, aws another account0
+ --> assign permissions attach one more policies to the role to define what resources and actions the role has access to .
+ attach the role to an ec2 instance or lambda function, depending on the use case.
+ SETTING PERMISSIONS AND POLICIES:  --> policies define permissions in json format. for example a policy could grant red-only access to s3 bucket or full access to ec2 instances.
+ --> aws provide predefined policies (eg admistrtaoraccess, amazons3readonlyaccess).
+ you create custom policies to our needs.
+ --> attach policies to users, groups, or roles to define their permissions.
+ --> setup MFA 
+ --> monitor and access with iam analyzer.
+ conclusion;  IAM is a critical service for managing access and permissions within AWS. 

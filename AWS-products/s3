@@ -1,0 +1,14 @@
+AMAZON s3 ( simple storage service ) it is one the scalable object storage service.
+it is used to store data and retrieve any amount of data at any time.
+set up s3 bucket : 
+                  - go to s3 console --> create a bucket and provide unique name for your bucket and select a region 
+                  --> set permissions either publicj (static website) or priavte 
+                  -->select an appropriate storge class
+                  create bucket .
+upload data to s3:  --> click o bucket you created
+                   --> click uplaod and select files or folders.
+access data in s3: you can access files directly through aws s3 web interface.
+access via aws cli : aws command line interface (cli) to interact with s3. 
+command line ex : aws s3 cp localfile.txt s3://your-bucket-name/
+conclusion: amazon s3 is a robust service for storing and managing data in the cloud.
+it is widely used for backups, serving content and hosting files due to scalability,durability.
