@@ -1,0 +1,34 @@
+Kubernetes has several key components that work together to manage containerized applications:
+
+Master Node Components:
+
+API Server: Acts as the control plane and central communication hub for the cluster.
+Controller Manager: Ensures the desired state of the cluster (e.g., managing replicas, nodes).
+Scheduler: Assigns workloads (pods) to worker nodes based on available resources.
+etcd: A distributed key-value store for cluster state and configuration data.
+Worker Node Components:
+
+Kubelet: An agent that ensures containers are running in a pod and communicates with the master node.
+Kube-proxy: Manages network rules for service discovery and load balancing.
+Container Runtime: Executes containers (e.g., Docker, containerd).
+Pod:
+
+The smallest deployable unit, representing one or more containers that share resources like storage and networking.
+Service:
+
+Provides a stable endpoint for accessing a set of pods, enabling load balancing and service discovery.
+ConfigMap & Secret:
+
+Used to store configuration data and sensitive information (e.g., passwords) for applications.
+Ingress:
+
+Manages external access to services, typically providing load balancing and SSL termination.
+Volumes:
+
+Provides persistent storage to pods for data
+
+
+
+
+
+
